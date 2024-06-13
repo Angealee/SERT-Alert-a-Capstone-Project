@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>SERT Alert</Text>
       <StatusBar style="auto" />
-      <Link href="/profile" style={{color: 'blue'}}>Go to profile</Link>
+      <Link href="/emergencyModule" style={{color: 'blue'}}>REPORT an Emergency!</Link>
     </View>
   );
 }
